@@ -1,1 +1,1 @@
-#
+# Long Words���## Statemenr��Sometimes words are too long for writing them many times in a single text. �Let�s call long words those s strings that s.size()>10.�We will abbreviate the long words like that: the first letter, the last one and the number of letter in between.�Thus, �localization� will be spelt as �l10n�, and �internationalization» will be spelt as �i18n�.��## Input��You will receive a string composed of english latin letters.��## Output��You need to output the abbreviation of the word (if the it is long).
